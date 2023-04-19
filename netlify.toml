@@ -3,7 +3,7 @@
   publish = "public"
 
 [[redirects]]
-  from = "/api/*"
-  to = "https://my-json-server.typicode.com/raoakif/portfolio-api"
+  from = "/api/projects"
+  to = "https://my-json-server.typicode.com/raoakif/portfolio-api/projects"
   status = 200
   force = true
