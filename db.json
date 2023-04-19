@@ -9,7 +9,7 @@
         "tag2": "CSS",
         "tag3": "JS"
       },
-      "linkLive": "raoakif.github.io/ConferencePage",
+      "linkLive": "https://raoakif.github.io/ConferencePage",
       "linkSource": "https://github.com/RaoAkif/ConferencePage"
     },
     {
@@ -23,7 +23,7 @@
         "tag4": "React",
         "tag5": "Ruby"
       },
-      "linkLive": "rent-a-car-frontend.netlify.app",
+      "linkLive": "https://rent-a-car-frontend.netlify.app",
       "linkSource": "https://github.com/RaoAkif/RentACar-Frontend"
     },
     {
@@ -37,7 +37,7 @@
         "tag4": "React",
         "tag5": "Ruby"
       },
-      "linkLive": "agile-chamber-15046.herokuapp.com/",
+      "linkLive": "https://agile-chamber-15046.herokuapp.com/",
       "linkSource": "https://github.com/RaoAkif/BudgetApp"
     }
   ]
