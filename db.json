@@ -29,7 +29,7 @@
     {
       "title": "Project 3: Budget App",
       "image": "https://raoakif.github.io/assets/img/portfolio-10.png",
-      "description": "https://raoakif.github.io/assets/img/portfolio-10.png.",
+      "description": "A Mobile Web App made with Rails that takes care of your expenses. You can have a record of your expenses by date, category, amount, and others. Has feature and system tests with RSpec and Capybara. Implements authentication with Devise and authorization with CanCanCan. Deployed to Heroku. Uses PostgreSQL and ActiveRecord.",
       "tags": {
         "tag1": "HTML",
         "tag2": "CSS",
