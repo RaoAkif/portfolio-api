@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port $PORT"
+    "start": "json-server --watch db.json",
+    "build": "echo 'Build step not needed for json-server'"
   },
   "keywords": [],
   "author": "",
