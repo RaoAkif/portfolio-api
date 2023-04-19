@@ -1,9 +1,21 @@
 {
   "projects": [
     {
-      "title": "Project 1: Keeping track of hundreds of components",
-      "image": "https://raw.githubusercontent.com/RaoAkif/MicroversePortfolio/main/images/portfolio_modal/Portfolio_Projects%20-%20Mobile%20Modal_1.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the release.",
+      "title": "Project 1: Conference Page",
+      "image": "https://raoakif.github.io/assets/img/portfolio-01.png",
+      "description": "This Event Page - Faiz International Festival maps the Events, Speakers and Sponsors data, that is in the form of Object, onto the DOM through JavaScript.",
+      "tags": {
+        "tag1": "HTML",
+        "tag2": "CSS",
+        "tag3": "JS",
+      },
+      "linkLive": "raoakif.github.io/ConferencePage",
+      "linkSource": "https://github.com/RaoAkif/ConferencePage"
+    },
+    {
+      "title": "Project 2: Rent A Car",
+      "image": "https://raoakif.github.io/assets/img/portfolio-07.png",
+      "description": "This project is full stack website for renting cars. The main view of the app presents a list of different cars to the user, allowing the user to view the details of each car, rent the car, and see the user's current rents.",
       "tags": {
         "tag1": "HTML",
         "tag2": "CSS",
@@ -11,27 +23,13 @@
         "tag4": "React",
         "tag5": "Ruby"
       },
-      "linkLive": "#",
-      "linkSource": "#"
+      "linkLive": "rent-a-car-frontend.netlify.app",
+      "linkSource": "https://github.com/RaoAkif/RentACar-Frontend"
     },
     {
-      "title": "Project 2: Keeping track of hundreds of components",
-      "image": "https://raw.githubusercontent.com/RaoAkif/MicroversePortfolio/main/images/portfolio_modal/Portfolio_Projects%20-%20Mobile%20Modal_2.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the release.",
-      "tags": {
-        "tag1": "HTML",
-        "tag2": "CSS",
-        "tag3": "JS",
-        "tag4": "React",
-        "tag5": "Ruby"
-      },
-      "linkLive": "#",
-      "linkSource": "#"
-    },
-    {
-      "title": "Project 3: Keeping track of hundreds of components",
+      "title": "Project 3: Budget App",
       "image": "https://raw.githubusercontent.com/RaoAkif/MicroversePortfolio/main/images/portfolio_modal/Portfolio_Projects%20-%20Mobile%20Modal_3.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the release.",
+      "description": "https://raoakif.github.io/assets/img/portfolio-10.png.",
       "tags": {
         "tag1": "HTML",
         "tag2": "CSS",
@@ -39,50 +37,8 @@
         "tag4": "React",
         "tag5": "Ruby"
       },
-      "linkLive": "#",
-      "linkSource": "#"
-    },
-    {
-      "title": "Project 4: Keeping track of hundreds of components",
-      "image": "https://raw.githubusercontent.com/RaoAkif/MicroversePortfolio/main/images/portfolio_modal/Portfolio_Projects%20-%20Mobile%20Modal_4.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the release.",
-      "tags": {
-        "tag1": "HTML",
-        "tag2": "CSS",
-        "tag3": "JS",
-        "tag4": "React",
-        "tag5": "Ruby"
-      },
-      "linkLive": "#",
-      "linkSource": "#"
-    },
-    {
-      "title": "Project 5: Keeping track of hundreds of components",
-      "image": "https://raw.githubusercontent.com/RaoAkif/MicroversePortfolio/main/images/portfolio_modal/Portfolio_Projects%20-%20Mobile%20Modal_5.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the release.",
-      "tags": {
-        "tag1": "HTML",
-        "tag2": "CSS",
-        "tag3": "JS",
-        "tag4": "React",
-        "tag5": "Ruby"
-      },
-      "linkLive": "#",
-      "linkSource": "#"
-    },
-    {
-      "title": "Project 6: Keeping track of hundreds of components",
-      "image": "https://raw.githubusercontent.com/RaoAkif/MicroversePortfolio/main/images/portfolio_modal/Portfolio_Projects%20-%20Mobile%20Modal_6.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the release.",
-      "tags": {
-        "tag1": "HTML",
-        "tag2": "CSS",
-        "tag3": "JS",
-        "tag4": "React",
-        "tag5": "Ruby"
-      },
-      "linkLive": "#",
-      "linkSource": "#"
+      "linkLive": "agile-chamber-15046.herokuapp.com/",
+      "linkSource": "https://github.com/RaoAkif/BudgetApp"
     }
   ]
 }
